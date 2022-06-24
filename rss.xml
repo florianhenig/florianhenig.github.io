@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 24 Jun 2022 08:14:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[Github Page]]></title>
+            <guid>e91ac93017e0432aa8f16359e85f6638</guid>
+            <pubDate>Fri, 24 Jun 2022 07:57:52 GMT</pubDate>
+            <content:encoded><![CDATA[<h1 id="florian-henig">Florian Henig</h1>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
